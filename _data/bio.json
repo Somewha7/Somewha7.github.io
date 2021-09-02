@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Lily Lonborg",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/ew.jpg",
+    "email": "hlonborg@hawaii.edu",
+    "phone": "(808) 445-4029",
+    "website": "https://Somewha7.github.io",
+    "summary": "I am currently studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii, and working towards a double major in math. I expect to graduate in Fall, 2024.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "Somewha7",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Lily Lonborg",
+        "url": "https://www.linkedin.com/in/lily-lonborg-80267721b/"
       }
     ]
   },
