@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published: true
 title: Pattern Recognition
 date: 2021-12-02
 labels:
@@ -28,7 +27,7 @@ However, ultimately, even if the name of "design patterns" hasn't always been ar
 I myself hadn't really thought much about them until I began studying them recently in my ICS 314 class, however a I've learned more about them I've come to find that there are examples of them strewn throughout much of the code I've worked on.
 There is an extent to which that comes from being taught code in a structured manner by those who have spent the time doing this more abstract analysis of the process of problem solving, however I've also come to instinctively apply them in the programs I've made of my own accord, simply due to the experience I've gained coding over time and my discovery of what works, what doesn't, and what makes the experience of coding more pleasant and efficient.
 For example, my most recent project as of writing this is a web application called [Roommate Radar](https://roommate-radar.github.io).
-While the app is very clearly the work of a novice, it's still a complex system full of many moving parts, and I've proud of all the work I and my group have put into it.
+While the app is very clearly the work of novices, it's still a complex system full of many moving parts, and I've proud of all the work my group and I have put into it.
 Upon learning about design patterns, I've taken another look at the work we've down through that lens, and the examples present are many and varied.
 
 ## Messages from the Past
