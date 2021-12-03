@@ -29,10 +29,13 @@ There is an extent to which that comes from being taught code in a structured ma
 For example, my most recent project as of writing this is a web application called [Roommate Radar](https://roommate-radar.github.io).
 While the app is very clearly the work of novices, it's still a complex system full of many moving parts, and I've proud of all the work my group and I have put into it.
 Upon learning about design patterns, I've taken another look at the work we've down through that lens, and the examples present are many and varied.
+Amongst a few that I immediately recognized, we've used Singletons for our MongoDB collections, States for our forms, Publications and Subscriptions to pass around the data from our MongoDB collections, and many, many more.
+Even if the idea of labelling what kinds of patterns each and every line of code your write fall under sounds absolutely exhausting, it's honestly quite refreshing to be able to put a name to concepts that you already have floating around your head.
+Even though the ideas were there before, just seeing them put into words has made them all the more tangible to me.
 
 ## Messages from the Past
-It's rather interesting noting the differences between how they've ended up present in the code -- when creating things, it's only natural to depend on the work others have put in before you -- that may take the form of a specific package or library that you use, but even if you're coding the most minimalist project ever, the language you're writing in, the editor you're using, everything about your code didn't just spontaneously appear.
+Furthermore, it's rather interesting noting the differences between how they've ended up present in the code -- when creating things, it's only natural to depend on the work others have put in before you -- that may take the form of a specific package or library that you use, but even if you're coding the most minimalist project ever, the language you're writing in, the editor you're using, everything about your code didn't just spontaneously appear.
 Someone had to make it, and generally that someone (or those someones) are interested in helping users to create the best work they can. As such, I've found that in many instances there are design patterns relating to concepts I'd never thought of present in my code, because those that came before put that thought in.
 It's very cozy to think of the effort that those that came before put in to help out those of us who have come after. 
 I'm sure it must have taken countless hours and a great amount of mental energy to do so, and in many ways I feel like these contributions can easily go unnoticed, but this act of sharing knowledge to help those that come later, even if not at any particular benefit to yourself, is both great and tender.
-It's one of those things that just makes us human.
+It's just one of those things that just makes us human.
