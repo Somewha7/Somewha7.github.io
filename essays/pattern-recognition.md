@@ -9,17 +9,20 @@ labels:
   - Learning
   - Design Patterns
 ---
+
 ## Recurring Nightmares
 Over the course of their life, everyone runs into some problems that just keep cropping up. 
 No matter what it is you're doing or how long it's been since you last ran into them, these problems just keep coming back.
 However, even if it can be annoying to run into the same problem over and over again, as you've dealt with it more it can almost become like an old friend.
 While the solutions to that problem will likely come in a myriad of variations depending on the context surrounding each instance of it, as you run into that same problem over and over again you will likely come up with a general set of ideas that form the gist of an actionable solution to the problem.
 Even though the specifics of your solutions change depending on how the problem presents itself and you'll always end up having to put in the work to create a solution using those concepts, just having that solid set of steps to start with can be an absolute life-saver.
+
 ## Clockwork Components
 In life generally we generally just chalk that knowledge up to experience, but in a situation where said problems have more definite solutions, the concept becomes even more relevant.
 As such, in the field of software engineering, where the solutions to problems are like watches comprising thousands of tiny clockwork components, all ticking in time with each other, you're likely to run into some of the same sub-problems over and over again in everything you do.
 As such, these basic blueprints for the starts of solutions are extremely relevant, and have come to be called design patterns.
 Design patterns are more than just algorithms -- while algorithms are designed as a tangible, provable solution to a single problem, design patterns are more of a set of concepts which are generally applicable to a class of problems and are useful to help streamline the process of designing an algorithm to solve a specific problem.
+
 ## Intrinsic Ideas
 However, ultimately, even if the name of "design patterns" hasn't always been around, the idea is one intrinsic to the learning process in general, and has always been around.
 I myself hadn't really thought much about them until I began studying them recently in my ICS 314 class, however a I've learned more about them I've come to find that there are examples of them strewn throughout much of the code I've worked on.
@@ -30,6 +33,7 @@ Upon learning about design patterns, I've taken another look at the work we've d
 Amongst a few that I immediately recognized, we've used Singletons for our MongoDB collections, States for our forms, Publications and Subscriptions to pass around the data from our MongoDB collections, and many, many more.
 Even if the idea of labelling what kinds of patterns each and every line of code your write fall under sounds absolutely exhausting, it's honestly quite refreshing to be able to put a name to concepts that you already have floating around your head.
 Even though the ideas were there before, just seeing them put into words has made them all the more tangible to me.
+
 ## Messages from the Past
 Furthermore, it's rather interesting noting the differences between how they've ended up present in the code -- when creating things, it's only natural to depend on the work others have put in before you -- that may take the form of a specific package or library that you use, but even if you're coding the most minimalist project ever, the language you're writing in, the editor you're using, everything about your code didn't just spontaneously appear.
 Someone had to make it, and generally that someone (or those someones) are interested in helping users to create the best work they can. As such, I've found that in many instances there are design patterns relating to concepts I'd never thought of present in my code, because those that came before put that thought in.
