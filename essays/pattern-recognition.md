@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: Pattern Recognition
 date: 2021-12-02
 labels:
