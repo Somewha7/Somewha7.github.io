@@ -1,10 +1,10 @@
 ---
-layout essay
-type essay
-published true
-title Framework in Progress
-date 2021-10-07
-labels
+layout: essay
+type: essay
+published: true
+title: Framework in Progress
+date: 2021-10-07
+labels:
   - Software Engineering
   - Learning
   - UI Frameworks
