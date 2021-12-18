@@ -21,11 +21,14 @@ This cycle continues indefinitely until they select the quit option.
 Upon selecting the quit option, the program overwrites the txt file and exits.
 
 Here are some examples of the program in action!
-![Print All](../images/projects/bank-database-ui/bank-database-printall-preadd.png)
+<img alt='Print All' src='../images/projects/bank-database-ui/bank-database-printall-preadd.png'/>
+
 Printing all the records in the database
-![Add](../images/projects/bank-database-ui/bank-database-add.png)
+<img alt='Add' src='../images/projects/bank-database-ui/bank-database-add.png'/>
+
 Adding a record to the database
-![Print All (again)](../images/projects/bank-database-ui/bank-database-printall-postadd.png)
+<img alt='Print All (again)' src='../images/projects/bank-database-ui/bank-database-printall-postadd.png'/>
+
 Printing all the records in the database, including the newly added one.
 
 As this was a solo project, all the work was done by me.
@@ -38,9 +41,10 @@ However, for this project I had to create a test plan in a spread sheet defining
 It was really interesting effectively working as a human version of TestCafe, jUnit, or other such unit test packages.
 Perhaps not so much in the actual execution, but I found it quite interesting to effectively "program" myself in the same way as a unit testing library by defining a bunch of tests in a strict format and executing each test step by step.
 As an example, here are some examples of the test cases which I designed tests to cover,
-![Test Plan Test Cases](../images/projects/bank-database-ui/bank-database-testplan-testcases.png)
+<img alt='Test Plan Test Cases' src='../images/projects/bank-database-ui/bank-database-testplan-testcases.png'/>
+
 And here is an example of one of the tests I devised to cover as many test cases as possible with as few tests as possible.
-![Test Plan Test](../images/projects/bank-database-ui/bank-database-testplan-test.png)
+<img alt='Test Plan Test' src='../images/projects/bank-database-ui/bank-database-testplan-test.png'/>
 
 Overall, while I'm not sure how much I'm going to be working with C in the future, I enjoyed working on this project and I felt like it really furthered my understanding of the language.
 If you're intersted in checking out this project, the repository for it can be found [here](https://github.com/Somewha7/bank-TM-Database-ICS-235-). 

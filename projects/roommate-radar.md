@@ -13,8 +13,9 @@ labels:
   - GitHub
 summary: A roommate finding service developed for ICS 314
 ---
-  
-![Roommate Radar Header](../images/projects/roommate-radar/roommate-radar-header.png)
+
+<img alt='Roommate Radar Header' src='../images/projects/roommate-radar/roommate-radar-header.png'/>
+
 Roommate Radar is a website deisgned to help current UH Manoa students find others to live with off campus.
 Users are able to look through the list of every other account on the site, filter to their preferences, and acquire other users' socials to message them with.
 
@@ -24,9 +25,11 @@ On the back end, I set up the MongoDB collections, defined default data that was
 On the front end, I didn't create much from scratch, but I helped refine the pages that others made -- especially the forms and the user profile page.
 
 Here's a couple examples of pages from the Roommate Radar site:
-![List Profiles Page](../images/projects/roommate-radar/roommate-radar-list-profiles.png)
+<img alt='List Profiles Page' src='../images/projects/roommate-radar/roommate-radar-list-profiles.png'/>
+
 The List Profiles page, where users see profiles displayed to them.
-![User Profile Page](../images/projects/roommate-radar/roommate-radar-user-profile.png)
+<img alt='User Profile Page' src='../images/projects/roommate-radar/roommate-radar-user-profile.png'/>
+
 The User Profile page, where more detailed information about a single user can be viewed.
 
 In working on this project, I learned a lot about working with others on a website, how to define issues in ways that are easiest for the people who work on them to understand, and how to work with the back end of websites.
