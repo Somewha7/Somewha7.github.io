@@ -7,10 +7,10 @@ permalink: projects/push-the-button
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-14
 labels:
-- Python
-- Text Game
-- GitHub
-  summary: A terminal-based ASCII text game developed with Python for the Honolulu Global Game Jam 2018
+  - Python
+  - Text Game
+  - GitHub 
+summary: A terminal-based ASCII text game developed with Python for the Honolulu Global Game Jam 2018
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/roommate-radar-header.png">

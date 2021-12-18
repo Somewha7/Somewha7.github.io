@@ -7,11 +7,11 @@ permalink: projects/roommate-radar
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-17
 labels:
-- Meteor
-- React
-- Semnatic UI
-- GitHub
-  summary: A roommate finding service developed for ICS 314
+  - Meteor
+  - React
+  - Semnatic UI
+  - GitHub
+summary: A roommate finding service developed for ICS 314
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/roommate-radar-header.png">
