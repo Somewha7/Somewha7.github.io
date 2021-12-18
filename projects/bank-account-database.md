@@ -7,9 +7,9 @@ permalink: projects/push-the-button
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-15
 labels:
-- C
-- Text-based
-  summary: A text UI for an imaginary bank developed in C for ICS 212
+  - C
+  - Text-based
+summary: A text UI for an imaginary bank developed in C for ICS 212
 ---
 
 The Bank(TM) Account Database is a small C project which stores, retrieves, and modifies bank accounts stored in a txt file.
