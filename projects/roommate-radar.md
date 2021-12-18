@@ -25,10 +25,10 @@ On the back end, I set up the MongoDB collections, defined default data that was
 On the front end, I didn't create much from scratch, but I helped refine the pages that others made -- especially the forms and the user profile page.
 
 Here's a couple examples of pages from the Roommate Radar site:
-<img alt='List Profiles Page' src='../images/projects/roommate-radar/roommate-radar-list-profiles.png'/>
+<img alt='List Profiles Page' src='../images/projects/roommate-radar/roommate-radar-list-profiles.png' width=800/>
 
 The List Profiles page, where users see profiles displayed to them.
-<img alt='User Profile Page' src='../images/projects/roommate-radar/roommate-radar-user-profile.png'/>
+<img alt='User Profile Page' src='../images/projects/roommate-radar/roommate-radar-user-profile.png' width=800/>
 
 The User Profile page, where more detailed information about a single user can be viewed.
 
