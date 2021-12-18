@@ -25,6 +25,4 @@ On the front end, I didn't create much from scratch, but I helped refine the pag
 In working on this project, I learned a lot about working with others on a website, how to define issues in ways that are easiest for the people who work on them to understand, and how to work with the back end of websites.
 We had learned about working with the back end prior to starting this project, but working on it without having a set of instructions to refer to was very helpful for furthering my understanding.
 More details can be found at [here](https://roommate-radar.github.io) at its github page, and the site can be found [here](https://roommate-radar.com) for as long as it remains running on Digital Ocean.
-If the site is no longer being maintained, a local version of it may be ran using the steps in the Develop Guide portion of the github page.
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+If the site is no longer being maintained, a local version of it may be ran using the steps in the Develop Guide portion of the github page
