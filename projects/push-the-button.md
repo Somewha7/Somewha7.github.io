@@ -20,5 +20,6 @@ Whether to push it or not is left up to you.
 
 Push the Button was designed over the course of 2 days for the Honolulu Global Game Jam of 2018, a short and sweet jam where you make a small game over the course of one weekend.
 I mostly helped with the creation of level 1, in which the player uses simplified versions of several terminal commands to traverse a fake desktop and find a password to use to progress to the next level.
+At the time of building this little game, I was a rank beginner at coding in general, so this project was my first real introduction to working with code that functioned over multiple files.
 
 The repository for Push the Button can be found [here](https://github.com/CarrotShaver/pushthebutton).
