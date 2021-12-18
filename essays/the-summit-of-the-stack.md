@@ -3,11 +3,10 @@ layout: essay
 type: essay
 published: true
 title: The Summit of the Stack
-date: 2021-09-23
+date: 2021-12-17
 labels:
 - Software Engineering
 - Learning
-- Coding Standards
 ---
 ## The Climb
 At time of writing it's now been around four months since I first started studying software engineering, and it's amazing to see how much more I know now than I did at the start. 
