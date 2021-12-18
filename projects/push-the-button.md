@@ -19,13 +19,13 @@ Ultimately, you're presented with a button.
 Whether to push it or not is left up to you.
 
 Here's a couple of images of the game!
-![Start Screen](images/projects/push-the-button/push-the-button-start.png)
+![Start Screen](../images/projects/push-the-button/push-the-button-start.png)
 The starting screen of the game.
-![Stickynote Password](images/projects/push-the-button/push-the-button-stickynote-password.png)
+![Stickynote Password](../images/projects/push-the-button/push-the-button-stickynote-password.png)
 One of the passwords, written on a sticky note attached to a PC.
-![The Button](images/projects/push-the-button/push-the-button-the-buttoon.png)
+![The Button](../images/projects/push-the-button/push-the-button-the-button.png)
 The titular button!
-![Kaboom](images/projects/push-the-button/push-the-buttom-kaboom.png)
+![Kaboom](../images/projects/push-the-button/push-the-button-kaboom.png)
 Whoops! Maybe you shouldn't have pushed the button after all...
 
 Push the Button was designed over the course of 2 days for the Honolulu Global Game Jam of 2018, a short and sweet jam where you make a small game over the course of one weekend.
