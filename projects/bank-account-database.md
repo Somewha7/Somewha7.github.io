@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/bank-account-databse.png
 title: Bank Account Database
-permalink: projects/push-the-button
+permalink: projects/bank-account-database
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-15
 labels:
